@@ -1,4 +1,4 @@
-# cuda_manager_libs
+# pycu_interface_libs
 
 Precompiled shared libraries for [pycu_interface](https://github.com/asuszko/pycu_interface).
 
