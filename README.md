@@ -1,10 +1,10 @@
 # cuda_manager_libs
 
-Precompiled shared libraries for [cuda_manager](https://github.com/asuszko/cuda_manager).
+Precompiled shared libraries for [pycu_interface](https://github.com/asuszko/pycu_interface).
 
 ## Setup
 
-Just drag and drop the content of the latest shader model supported by your hardware (for example, sm_50) into the cuda_manager root folder.
+Just drag and drop the content of the latest compute version supported by your hardware (for example, sm_50) into the pycu_interface root folder.
 
 ## License
  
