@@ -1,10 +1,10 @@
 # pycu_interface_libs
 
-Precompiled shared libraries for [pycu_interface](https://github.com/asuszko/pycu_interface).
+Precompiled shared libraries for [pycu_interface](https://github.com/asuszko/pycu_interface). Due to the current limitations of my graphics hardware available, I am only able to test out the following compiled shared libraries for Windows: sm_30 and sm_50, and for Linux: sm_30. However, historically speaking, when older compute architectures were tested functional, this translated into newer compilations working out of the box, as [CUDA is backwwards compatible](http://docs.nvidia.com/cuda/pascal-compatibility-guide/index.html) down to version 30.
 
 ## Setup
 
-Just drag and drop the content of the latest compute version supported by your hardware (for example, sm_50) into the pycu_interface root folder.
+Copy the content of the latest compute version supported by your hardware (for example, sm_50) into the pycu_interface root folder. Test using the sample scripts found in the [pycu_interface samples directory](https://github.com/asuszko/pycu_interface/tree/master/samples).
 
 ## License
  
